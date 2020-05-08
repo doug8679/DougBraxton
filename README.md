@@ -6,7 +6,7 @@ Welcome!  I have put toghether this simple page to showcase some of my many inte
 
 This is a list of my current publis repositories (active or not) that you might be interested in browsing:
 
-1. [libX3d](https://github.com/doug8679/x3d)
+1. [libX3d](https://github.com/doug8679/DougBraxton#libx3d-a-c-implementation-of-the-x3d-specification)
 2. Project B
 
 ### **libX3d** A C\# Implementation of the X3D Specification
